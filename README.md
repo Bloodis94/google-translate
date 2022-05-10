@@ -1,17 +1,5 @@
 # (Unofficial) Google Translate API
-  Very simple Google translate API for Python.
- 
-Install
----------
-```python
-pip install -r requirments.txt
-```
-Usage
----------
-
-```python
-python example.py
-```
+  Very simple Google translate API for Java. Fork and translation of the original Python version
 
 License
 ------------
