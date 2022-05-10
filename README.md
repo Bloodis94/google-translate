@@ -1,5 +1,5 @@
 # (Unofficial) Google Translate API
-  Very simple Google translate API for Java. Fork and translation of the original Python version
+  Very simple Google translate API for Spring Boot. Fork and translation of the original Python version
 
 License
 ------------
